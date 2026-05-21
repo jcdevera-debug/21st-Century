@@ -1,3 +1,2 @@
-# 21st-Century
-## Header2
-### Header3
+# NASH
+## Detail-oriented with foundational knowledge in accounting procedures and cash management, gained through experience in a Local Government Unit. Proficient in Excel and financial reporting, with a strong focus on accuracy, compliance, and process improvement. Demonstrates effective communication and leadership skills, with the ability to collaborate and support team objectives. Eager to apply and further develop financial expertise in a dynamic and growth-oriented environment.
