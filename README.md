@@ -34,7 +34,7 @@ This section focuses on personal storytelling and self-expression. The floral el
 
 ## 🏆 Projects & Experiences (Major Achievements)
 
-![Projects and Experiences](./images/projects-experiences.png)
+![Projects and Experiences](./images/project-experiences.png)
 
 ### Reflection
 I organized my major experiences and accomplishments into a structured layout that allows visitors to quickly understand my most significant milestones. The design balances visual appeal and readability to effectively showcase achievements without overwhelming the audience.
@@ -43,7 +43,7 @@ I organized my major experiences and accomplishments into a structured layout th
 
 ## Projects & Experiences (Additional Achievements)
 
-![Other Experiences](./images/other-others.png)
+![Other Experiences](./images/other-experinces.png)
 
 ### Reflection
 This section expands on my portfolio by presenting additional experiences that contributed to my development as a performer, leader, and creative individual. Maintaining the same visual language across sections ensures consistency and strengthens the overall branding of the website.
@@ -52,7 +52,7 @@ This section expands on my portfolio by presenting additional experiences that c
 
 ## Contact Page
 
-![Contact Page](./images/contact.png)
+![Contact Page](./images/contact-page.png)
 
 ### Reflection
 The contact page was designed with simplicity and accessibility in mind. By providing clear communication channels and social media links, visitors can easily connect with me while experiencing a design that remains consistent with the rest of the portfolio.
