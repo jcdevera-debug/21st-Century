@@ -1,0 +1,51 @@
+# Project Overview
+
+This project demonstrates an AI-assisted workflow for cleaning and visualizing regional agricultural data to support evidence-based policymaking.
+
+---
+
+## Dataset
+
+**Topic:** Crop Production in Mindanao
+
+**Format:** CSV
+
+---
+
+## Structural Adjustments Performed
+
+The AI performed the following preprocessing steps:
+
+- Removed duplicate observations
+- Standardized municipality names
+- Converted production values into numeric format
+- Removed blank records
+- Corrected inconsistent capitalization
+- Filled missing values using appropriate interpolation
+- Verified column headers
+
+---
+
+## Chart 1: Annual Crop Production Trend
+
+
+### Analysis
+
+Crop production steadily increased between 2020 and 2023 before declining in 2024. The decrease may reflect weather disturbances affecting agricultural productivity across several Mindanao provinces.
+
+---
+
+## Chart 2: Top Producing Municipalities
+
+
+### Analysis
+
+The visualization indicates that production remains concentrated in a small number of municipalities, suggesting opportunities for infrastructure investments in emerging agricultural areas.
+
+---
+
+## Human Reflection
+
+The AI significantly reduced the time required for cleaning and organizing the dataset. However, human oversight remained necessary to validate missing values and ensure that data transformations did not distort the original records. The resulting visualizations provide policymakers with a concise representation of production trends while supporting data-driven planning.
+
+---
