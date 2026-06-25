@@ -23,7 +23,7 @@ The homepage was designed to establish a strong first impression through bold ty
 
 ---
 
-## 📖 My Story
+## My Story
 
 ![My Story](./images/my-story.png)
 
