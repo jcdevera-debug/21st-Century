@@ -1,6 +1,5 @@
 # Jonash De Vera Portfolio Website
 
-![BrandingKit](./images/brandingkit.png)
 
 ## About Me
 
