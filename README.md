@@ -1,9 +1,80 @@
-# **THE HOUSE OF RARE** 🐆<br/> 
-## _Untamed Strength. Undeniable Grace._
-## Fine Jewelry, Artisanal Perfume, Botanical Skincare <br/>
-_**Jonash C. De Vera** founded the House with a singular mission: to redefine luxury through the lens of nature's rawest forms. His background in curating rare elements led to the creation of a sanctuary where high jewelry, bespoke perfumery, and bio-botanical skincare coexist in perfect harmony._<br/><br/>
-_His philosophy centers on the belief that true strength is found in resilience, and true beauty is found in the untamed._
+# Jonash De Vera Portfolio Website
 
-# **Our Philosophy**
-## Bridging the Primal and the Polished<br/>
-_Our house is a sanctuary where the raw power of nature's untamed elements is distilled into the ultimate expressions of luxury.We curate a singular world where the fire of gemstones meets the instinct of scent. We exist to empower the modern connoisseur with rituals of beauty and strength, finding grace in the contrast between the earth's raw materials and human artistry._
+## About Me
+
+Hi! I'm **Jonash De Vera**, an Accountancy student, dancer, choreographer, and creative designer passionate about combining storytelling, performance, and visual design. My work reflects a commitment to showcasing both artistic expression and professional growth through meaningful digital experiences.
+
+> **"Driven by purpose, grounded in passion, and constantly evolving."**
+
+---
+
+# Portfolio Website Project
+
+This project is a personal portfolio website designed to highlight my journey as a dancer, choreographer, performer, and student leader. The website presents my story, accomplishments, experiences, and contact information through a visually cohesive and personality-driven interface.
+
+---
+
+## Homepage
+
+![Homepage](./images/homepage.png)
+
+### Reflection
+The homepage was designed to establish a strong first impression through bold typography, warm color palettes, and a featured portrait. I wanted visitors to immediately recognize both my creative identity and professional aspirations through a clean yet expressive layout.
+
+---
+
+## 📖 My Story
+
+![My Story](./images/my-story.png)
+
+### Reflection
+This section focuses on personal storytelling and self-expression. The floral elements, warm colors, and textured background were intentionally selected to create a reflective atmosphere that communicates growth, passion, and authenticity.
+
+---
+
+## 🏆 Projects & Experiences (Major Achievements)
+
+![Projects and Experiences](./images/projects-major.png)
+
+### Reflection
+I organized my major experiences and accomplishments into a structured layout that allows visitors to quickly understand my most significant milestones. The design balances visual appeal and readability to effectively showcase achievements without overwhelming the audience.
+
+---
+
+## Projects & Experiences (Additional Achievements)
+
+![Other Experiences](./images/projects-others.png)
+
+### Reflection
+This section expands on my portfolio by presenting additional experiences that contributed to my development as a performer, leader, and creative individual. Maintaining the same visual language across sections ensures consistency and strengthens the overall branding of the website.
+
+---
+
+## Contact Page
+
+![Contact Page](./images/contact.png)
+
+### Reflection
+The contact page was designed with simplicity and accessibility in mind. By providing clear communication channels and social media links, visitors can easily connect with me while experiencing a design that remains consistent with the rest of the portfolio.
+
+---
+
+# Design Philosophy
+
+The website combines elegance, creativity, and personal storytelling. Burgundy tones, floral accents, and curated imagery were chosen to reflect passion, artistic expression, and individuality while maintaining a professional and organized presentation.
+
+---
+
+# 🛠️ Technologies Used
+
+- Canva
+
+---
+
+# 👤 Author
+
+**Jonash De Vera**
+
+Dancer • Choreographer • Creative Designer
+
+*"Driven by purpose, grounded in passion, and constantly evolving."*
