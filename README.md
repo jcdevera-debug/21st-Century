@@ -1,5 +1,8 @@
 # Jonash De Vera Portfolio Website
 
+## Portfolio Banner
+
+![Portfolio Banner](./images/brandingkit.png)
 
 ## About Me
 
