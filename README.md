@@ -1,5 +1,7 @@
 # Jonash De Vera Portfolio Website
 
+![Homepage](./images/brandingkit.png)
+
 ## About Me
 
 Hi! I'm **Jonash De Vera**, an Accountancy student, dancer, choreographer, and creative designer passionate about combining storytelling, performance, and visual design. My work reflects a commitment to showcasing both artistic expression and professional growth through meaningful digital experiences.
