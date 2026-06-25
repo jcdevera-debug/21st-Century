@@ -65,13 +65,13 @@ The website combines elegance, creativity, and personal storytelling. Burgundy t
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Canva
 
 ---
 
-# 👤 Author
+# Author
 
 **Jonash De Vera**
 
