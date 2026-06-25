@@ -43,7 +43,7 @@ I organized my major experiences and accomplishments into a structured layout th
 
 ## Projects & Experiences (Additional Achievements)
 
-![Other Experiences](./images/other-experinces.png)
+![Other Experiences](./images/other-experiences.png)
 
 ### Reflection
 This section expands on my portfolio by presenting additional experiences that contributed to my development as a performer, leader, and creative individual. Maintaining the same visual language across sections ensures consistency and strengthens the overall branding of the website.
